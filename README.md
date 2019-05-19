@@ -3,6 +3,9 @@
 
 analyzing City Bike for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, in this projet we will generate regular reports for city officials looking to publicize and improve the city program.
 
+
+<img src = “citi-bike-station-bikes.jpg”>
+
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
 However, while the data has been regularly updated, the team has yet to implement a dashboard or sophisticated reporting process. In this project we will answer a number of questions on the program, out Task is to Build a set of data reports to provide the answers.
