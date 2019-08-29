@@ -73,6 +73,7 @@ However, while the data has been regularly updated, the team has yet to implemen
         * 64.93% Male
         * 24.05% Female
         * 11.02% Unknown
+![Citi-Bikes](Images/Gender.png)
 
 * How effective has gender outreach been in increasing female ridership over the timespan?
     * Female ridership has increased year over year but male ridership still far outpaces all genders
