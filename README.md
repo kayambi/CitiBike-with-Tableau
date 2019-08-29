@@ -35,7 +35,7 @@ The following are some questions we will need to tackle.**
 
     * While short-term customer ridership has grown very minimally (July 2016 to 2017 by 1.19% and July 2017 to 2018 by 0.46%), annual subscribers have grown by 5.88% and 3.07% since 2016 to 2018 with a total growth of almost 9% over the chosen period (month of July)
 
-![Citi-Bikes](Images/Citi Bike_User Type Analysis.png)
+![Citi-Bikes](Images/User.png)
 
 * What are the peak hours in which bikes are used?
     * Not surprisingly the most popular hours were at 8:00am and 5:00pm/6:00pm which correlate to rush hours for the morning and evening commuters
