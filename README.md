@@ -45,11 +45,12 @@ However, while the data has been regularly updated, the team has yet to implemen
     * 9. Broadway & E 14th St
     * 10. South End Ave & Liberty St.
 
-![Citi-Bikes](Images/Sample.jpg)
+![Citi-Bikes](Images/stations.png)
 
         * Based on the data of bike stations in the city for starting a journey the above locations are top 10 because they are near major transportation hubs (MTA stations), and also near bike routes (i.e. Central Park, Westside Highway) which are popular amongst riders
 
-* Today, what are the top 10 stations in the city for ending a journey? (Based on data, why?)
+* Today, what are the top 10 stations in the city for ending a journey? (Based on data)
+
     * 1. Pershing Square North
     * 2. West St & Chambers St
     * 3. 12th Ave & W. 40th St
@@ -60,10 +61,12 @@ However, while the data has been regularly updated, the team has yet to implemen
     * 8. Carmine St & 6th Ave
     * 9. South End Ave & Liberty St
     * 10. Broadway & E 14th St
+
+
         * The top 10 end vs. start stations are the same with the exception of Carmine St & 6th Ave and Central Park S & 6th Ave. However Carmine St & 6th Ave is also near a park (Washington Square Park)
 
 * Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why)
-    * The bottom 10 stations for starting a journey are either at NYC bus stations or in Brooklyn, and outside of Manhattan, which has th largest concentration of bike stations
+    * The bottom 10 stations for starting a journey are either at NYC bus stations or in Brooklyn, and outside of Manhattan, which has the largest concentration of bike stations
 
 * Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
     * The bottom 10 stations for ending a journey are also similar to the bottom 10 stations in the city for starting a journey
@@ -80,10 +83,14 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * How does the average trip duration change by age?
     * In 2016 the average ages for trip durations was relatively steady, meaning that across all ages trip durations were quite similar
-    * In 2017 there are stark noticable differences in that 32, 21 and 24 year olds comprised the top 3 ages for longest trip durations
+    * In 2017 there are stark noticeable differences in that 32, 21 and 24 year olds comprised the top 3 ages for longest trip durations
     * In 2018 the top 3 ages shift to 50, 18 and 42 year olds with the longest trip durations
 
+![Citi-Bikes](Images/Age.png)
+
+
 * What is the average distance in miles that a bike is ridden?
+
 
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan? 
     * There are 12 bikes that are have been ridden over 4 million seconds (over 1,000 hours) that are at the highest risk of repair or inspection, and 4 bikes that have surpassed over 6 million seconds (1,666 hours)
@@ -94,11 +101,10 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
-* If you're working with a merged dataset: a dynamic map that shows how each station's popularity changes over time (by month and year) -- with commentary pointing to any interesting events that may be behind these phenomena.
+![Citi-Bikes](stations/Age.png)
 
-**Lastly, as a chronic over-achiever:**
 
-* Find at least two unexpected phenomena in the data and provide a visualization and analysis to document their presence. 
+![Citi-Bikes](Citi Bike_Stations/Age.png)
 
 
 ## Considerations
