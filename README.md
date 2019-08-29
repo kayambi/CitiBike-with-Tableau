@@ -45,7 +45,7 @@ However, while the data has been regularly updated, the team has yet to implemen
     * 9. Broadway & E 14th St
     * 10. South End Ave & Liberty St.
 
-![Citi-Bikes](Images/Citi Bike_Station Analysis.jpg)
+![Citi-Bikes](Images/Sample.jpg)
 
         * Based on the data of bike stations in the city for starting a journey the above locations are top 10 because they are near major transportation hubs (MTA stations), and also near bike routes (i.e. Central Park, Westside Highway) which are popular amongst riders
 
