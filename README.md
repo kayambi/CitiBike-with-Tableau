@@ -27,8 +27,9 @@ However, while the data has been regularly updated, the team has yet to implemen
 * By what percentage has total ridership grown? 
     * Ridership has grown for the month of July year over year from 2016 to 2017 by 7.07% and from 2017 to 2018 by 3.54% respectively
 
-* How has the proportion of short-term customers and annual subscribers changed?
     * While short-term customer ridership has grown very minimally (July 2016 to 2017 by 1.19% and July 2017 to 2018 by 0.46%), annual subscribers have grown by 5.88% and 3.07% since 2016 to 2018 with a total growth of almost 9% over the chosen period (month of July)
+
+![Citi-Bikes](Images/rideship.png)
 
 * What are the peak hours in which bikes are used?
     * Not surprisingly the most popular hours were at 8:00am and 5:00pm/6:00pm which correlate to rush hours for the morning and evening commuters
@@ -91,7 +92,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * What is the average distance in miles that a bike is ridden?
 
-
 * Which bikes (by ID) are most likely due for repair or inspection in the timespan? 
     * There are 12 bikes that are have been ridden over 4 million seconds (over 1,000 hours) that are at the highest risk of repair or inspection, and 4 bikes that have surpassed over 6 million seconds (1,666 hours)
 
@@ -100,9 +100,6 @@ However, while the data has been regularly updated, the team has yet to implemen
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
 ![Citi-Bikes](Images/GeoStation.png)
-
-
-![Citi-Bikes](Images/Citi Bike_Stations.png)
 
 
 ## Considerations
