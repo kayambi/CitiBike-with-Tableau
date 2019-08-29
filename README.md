@@ -27,15 +27,19 @@ The following are some questions we will need to tackle.**
 * How many trips have been recorded total during the chosen period?
     * 5,029,334 rides combined for July 2016, 2017 and 2018
 
+
 * By what percentage has total ridership grown? 
     * Ridership has grown for the month of July year over year from 2016 to 2017 by 7.07% and from 2017 to 2018 by 3.54% respectively
 
+![Citi-Bikes](Images/rideship.png)
+
     * While short-term customer ridership has grown very minimally (July 2016 to 2017 by 1.19% and July 2017 to 2018 by 0.46%), annual subscribers have grown by 5.88% and 3.07% since 2016 to 2018 with a total growth of almost 9% over the chosen period (month of July)
 
-![Citi-Bikes](Images/rideship.png)
+![Citi-Bikes](Images/Citi Bike_User Type Analysis.png)
 
 * What are the peak hours in which bikes are used?
     * Not surprisingly the most popular hours were at 8:00am and 5:00pm/6:00pm which correlate to rush hours for the morning and evening commuters
+
 
 * Today, what are the top 10 stations in the city for starting a journey? (Based on data, why do you hypothesize these are the top locations?)
     * 1. Pershing Square North
@@ -51,7 +55,7 @@ The following are some questions we will need to tackle.**
 
 ![Citi-Bikes](Images/stations.png)
 
-        * Based on the data of bike stations in the city for starting a journey the above locations are top 10 because they are near major transportation hubs (MTA stations), and also near bike routes (i.e. Central Park, Westside Highway) which are popular amongst riders
+* Based on the data of bike stations in the city for starting a journey the above locations are top 10 because they are near major transportation hubs (MTA stations), and also near bike routes (i.e. Central Park, Westside Highway) which are popular amongst riders
 
 * Today, what are the top 10 stations in the city for ending a journey? (Based on data)
 
@@ -101,6 +105,7 @@ The following are some questions we will need to tackle.**
 * How variable is the utilization by bike ID?
 
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
+
 
 ![Citi-Bikes](Images/GeoStation.png)
 
