@@ -19,7 +19,10 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Task
 
-**Using Tableau aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story or report. The following are some questions we will need to tackle.**
+**Used Python and it dependencies for data cleaning and used Tableau to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story or report. 
+
+
+The following are some questions we will need to tackle.**
 
 * How many trips have been recorded total during the chosen period?
     * 5,029,334 rides combined for July 2016, 2017 and 2018
