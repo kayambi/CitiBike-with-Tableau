@@ -99,7 +99,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 * A static map that plots all bike stations with a visual indication of the most popular locations to start and end a journey with zip code data overlaid on top.
 
-![Citi-Bikes](Images/stations.png)
+![Citi-Bikes](Images/GeoStation.png)
 
 
 ![Citi-Bikes](Images/Citi Bike_Stations.png)
