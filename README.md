@@ -19,7 +19,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Task
 
-**Used Python and it dependencies for data cleaning and used Tableau to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story or report. 
+**Used Python and It`s dependencies for data cleaning and used Tableau to aggregate the data found in the Citi Bike Trip History Logs to build a data dashboard, story or report. 
 
 
 The following are some questions we will need to tackle.**
@@ -69,7 +69,7 @@ The following are some questions we will need to tackle.**
 
         * The top 10 end vs. start stations are the same with the exception of Carmine St & 6th Ave and Central Park S & 6th Ave. However Carmine St & 6th Ave is also near a park (Washington Square Park)
 
-* Today, what are the bottom 10 stations in the city for starting a journey? (Based on data, why)
+* what are the bottom 10 stations in the city for starting a journey? (Based on data, why)
     * The bottom 10 stations for starting a journey are either at NYC bus stations or in Brooklyn, and outside of Manhattan, which has the largest concentration of bike stations
 
 * Today, what are the bottom 10 stations in the city for ending a journey (Based on data, why?)
