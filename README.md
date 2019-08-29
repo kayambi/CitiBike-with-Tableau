@@ -104,7 +104,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 ## Considerations
 
-Remember, the people reading your analysis will NOT be data analysts. Your audience will be city officials, public administrators, and heads of New York City departments. Your data and analysis needs to be presented in a way that is focused concise, easy-to-understand, and visually compelling. Your visualizations should be colorful enough to be included in press releases, and your analysis should be thoughtful enough for dictating programmatic changes. 
+We have to keep in mind that the people reading analysis will NOT be data analysts. The audience should city officials, public administrators, and heads of New York City departments. The data and analysis needs to be presented in a way that is focused concise, easy-to-understand, and visually compelling. Our visualizations should be colorful enough to be included in press releases, and our analysis should be thoughtful enough for dictating programmatic changes. 
 
 
 ## Assessment
